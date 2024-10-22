@@ -1,0 +1,134 @@
+.header {
+    width: 500px;
+    margin: 0 auto;
+    border: 2px solid blueviolet;
+    background-color: #ebe7e7;
+}
+
+.header ul {
+    font-size: 4rem;
+    color: blue;
+    text-align: center;
+}
+
+.form {
+    background-color:white ;
+    width: 80%;
+    height: 80%;
+    margin: 1rem auto;
+    border-radius: 20px;
+}
+
+.form-text h1 {
+    font-size: 25px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.form-text h3 {
+    padding-top: 10px;
+    text-align: center;
+    opacity: 0.6;
+}
+
+.form-text .line {
+        height: 1px; 
+        background-color:#cab0b0;
+        width: 100%; 
+        margin-top: 10px;
+}
+
+.form-info{
+    padding:0 10px;
+}
+
+.form-info_name {
+    max-width: 100%;
+    flex-wrap: nowrap;
+}
+
+.form-info #lastname {
+    border-radius: 5px;
+    margin: 15px 0;
+    font-size: 15px;
+}
+
+.form-info #firstname {
+    border-radius: 5px;
+    width: 46%;
+    font-size: 15px;
+}
+
+.form-info #email {
+    width: 97%;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.form-info #password {
+    border-radius: 5px;
+    width: 97%;
+    margin-top: 15px;
+    font-size:15px ;
+}
+
+.form-info-birthday {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.form-info-birthday select {
+    width: 32%;
+    margin-top: 10px;
+}
+
+.sex  {
+    line-height: 25px;
+}
+
+.sex label {
+    text-align: center;
+}
+
+.sex select {
+    width: 100%;
+    padding: 0 10px;
+}
+
+
+.text {
+    opacity: 0.5;
+    line-height:20px;
+    margin: 15px 0px;
+}
+
+
+
+
+
+.form-info button {
+    width: 60%;
+    height: 40px;
+    /* margin: 20px 20%; */
+    color: #fff;
+    background-color: green;
+    border-radius: 10px;
+    font-size: 1.6rem;
+    display: flex;
+    margin: 1rem auto;
+    justify-content: center;
+}
+
+.have-account {
+    text-align: center;
+    color:#af1414;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+

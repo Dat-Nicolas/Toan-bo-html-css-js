@@ -1,0 +1,140 @@
+body {
+   background-color:bisque ;
+}
+
+.ml-15{
+    margin-left: 15px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.container{
+    background-color:#fff;
+    width: 50%;
+    height: 1100px;
+    margin-left: 20%;
+}
+
+.cv {
+    display:flex;
+}
+
+.info-myself {
+    width: 35%;
+    background-color: #373662 ;
+  
+}
+
+.info-job {
+    width: 65%;
+}
+
+
+.info-myself_avata img {
+   max-width: 100%;
+   height: 200px; 
+   margin: 20px 35px;
+   border-radius: 50%;
+   border: 2px solid #bcb7e3 ;
+}
+
+.info-myself_detail h1 {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.info-myself_detail ul {
+    font-size: 15px;
+    color: #e4c1e1;
+    line-height: 20px;
+}
+
+
+.info-myself_detail {
+    color: #fff;
+    font-size: 27px;
+}
+
+.certificate ul h5 {
+    margin-top: 5px;
+}
+
+
+.info-job h1 {
+    padding-bottom: 15px;
+    padding-left: 110px;
+    font-size: 25px;
+    padding-top: 60px;
+    color: #9c0f2d;
+}
+
+
+.info-job h3 {
+    padding-left: 105px;
+    font-size: 20px;
+    color: #2a443f;
+}
+
+.info-job ul {
+    display: flex;
+    padding-top: 20px;
+    
+}
+
+.info-job ul h2 {
+    padding: 12px 30px;
+    width: 200px;
+    border: 2px solid #9c9eb6;
+    font-size: 20px;
+    color: #574d40;
+}
+
+.info-job ul li {
+    font-size: 17px;
+    padding-top: 20px;
+}
+
+.aim-future {
+    list-style-type: none;
+    padding-left: 6%;
+    padding-top: 20px;
+    font-size: 20px;
+    border: 2px solid #9c9eb6;
+    height: 18rem;
+}
+
+.aim-future li {
+    padding-top: 8px;
+    font-size: 17px;
+    line-height: 27px;
+}
+
+
+/* video {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

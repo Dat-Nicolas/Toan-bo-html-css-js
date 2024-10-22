@@ -1,0 +1,184 @@
+body {
+    background-color: aliceblue;
+}
+
+.body {
+    width: 1000px;
+    height: 100%;
+    background-color: antiquewhite;
+    box-shadow: -1px -2px 21px 0px rgba(0, 0, 0, 0.55);
+}
+
+li {
+    list-style-type: none;
+}
+.store {
+    display: flex;
+}
+
+.picture {
+    border: 1px solid black;
+    width: 40%;
+    height: 600px;
+}
+
+.picture-main img {
+    object-fit: cover;
+    width: 60%;
+    margin: 5% 20%;
+    border-radius: 15px;
+}
+
+.picture-sp img {
+    width: 15%;
+    padding-left: 10px;
+} 
+
+.info-goods {
+    width: 60%;
+    border: 1px solid black;
+    height: 600px;
+}
+
+.info-goods p {
+    color: chocolate;
+    padding-left: 15px;
+}
+
+.info-goods h1 {
+    text-align: center;
+}
+
+.price {
+    display: flex;
+    padding-left: 15px;
+    margin: 10px 0;
+}
+
+.old-price {
+    color: gray;
+    text-decoration: line-through;
+    padding-right: 15px;
+}
+
+.new-price {
+    color: red;
+    padding-right: 15px;
+    font-size: 20px;
+}
+
+.percent-discount {
+    color: green;
+}
+
+.more-info {
+    margin-left: -25px;
+}
+
+
+
+
+
+.info-goods_color {
+    display: flex;
+}
+
+.info-goods_color p {
+    font-size: 25px;
+    padding-left: 15px;
+    width: 20px;
+}
+
+.info-goods_color ul {
+    display: flex;
+}
+
+.info-goods_color li {
+    font-size: 10px;
+    margin: 15px 10px;
+}
+
+.info-goods_size {
+    display: flex;
+    height: 75px;
+}
+
+.info-goods_size p {
+    font-size: 25px;
+    padding-left: 15px;
+    width: 20px;
+}
+
+.number-size {
+    width: 80%;
+    display: flex;
+}
+
+.number-size li  {
+   font-size: 10px;
+   margin: 15px 10px;
+}
+
+.quantity {
+    display: flex;
+    height: 75px;
+}
+
+.quantity p {
+    font-size: 20px;
+    padding-left: 15px;
+    padding-top: 8px;
+    width: 20%;
+}
+
+
+
+.soluong input {
+    width:90px;
+}
+
+.action-btn {
+    padding-left: 15px;
+}
+
+.action-btn button {
+   font-size: 15px;
+   margin: 20px 0px;
+   display: inline-block;
+   margin-right: 20px;
+}
+
+.add-to-cart {
+   background-color: orangered;
+   color: #fff;
+}
+
+.buy-now {
+   background-color:#da8787 ;
+   color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
